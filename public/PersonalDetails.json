@@ -1,0 +1,35 @@
+{
+    "Details": [
+        {
+            "CustomerDetails": "First Name"
+        },
+        {
+            "CustomerDetails": "Last Name"
+        }
+    ],
+    "DateOfBirth": [
+        {
+            "field": "Day"
+        },
+        {
+            "field": "Month"
+        },
+        {
+            "field": "Year"
+        }
+    ],
+    "TitleDetail": [
+        {
+            "Title": "Mr"
+        },
+        {
+            "Title": "Mrs"
+        },
+        {
+            "Title": "Miss"
+        },
+        {
+            "Title": "Ms"
+        }
+    ]
+}

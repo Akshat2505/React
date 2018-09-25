@@ -1,0 +1,13 @@
+{
+    "PaymentType" : [
+        {
+            "Type" : "Yearly by Direct Debit"
+        },
+        {
+            "Type" : "Yearly by card"
+        },
+        {
+            "Type" : "Monthly payments by Direct Debit"
+        }
+    ]
+}

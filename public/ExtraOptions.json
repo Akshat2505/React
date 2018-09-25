@@ -1,0 +1,27 @@
+{
+    "ExtraOptions" : [
+        {
+            "EOptionsType" : "National Recovery",
+            "Description" : "Transport to any single UK destination if your vehicle breaks down and can't be fixed at the roadside.",
+            "ImgLink" : "https://www.theaa.com/breakdown-cover/~/media/the-aa/breakdown-cover/sales-journey/uk/national-recovery.svg"
+        },
+        {
+            "EOptionsType" : "At Home",
+            "Description" : "Cover on your driveway or within 1/4 mile from home.",
+            "ImgLink" : "https://www.theaa.com/breakdown-cover/~/media/the-aa/breakdown-cover/sales-journey/uk/at-home.svg"
+           
+        },
+        {
+            "EOptionsType" : "Onward Travel",
+            "Description" : "Car hire, public transport or a hotel room if your vehicle breaks down and can't be fixed at the roadside.",
+            "ImgLink" : "https://www.theaa.com/breakdown-cover/~/media/the-aa/breakdown-cover/sales-journey/uk/onward-travel.svg"
+ 
+        },
+        {
+            "EOptionsType" : "Parts and Garage Cover",
+            "Description" : "Help with parts and garage bills after a breakdown. Cover up to 5 claims a year, each with up to £500 with a £35 excess. Excludes pre-existing faults.",
+            "ImgLink" : "https://www.theaa.com/breakdown-cover/~/media/the-aa/breakdown-cover/sales-journey/uk/parts-and-garage-cover.svg"
+        }
+
+    ]
+}

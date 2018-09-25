@@ -1,0 +1,36 @@
+{
+    "Details": {
+        "Address": [
+            {
+                "Type": "Address Line 1"
+            },
+            {
+                "Type": "Address Line 2"
+            },
+            {
+                "Type": "Address Line 3"
+            },
+            {
+                "Type": "Address Line 4"
+            },
+            {
+                "Type": "Address Line 5"
+            }
+        ],
+        "PostCode": [
+            {
+                "Name": "Postcode"
+            }
+        ],
+        "Phone": [
+            {
+                "Name": "Phone Number"
+            }
+        ],
+        "Email": [
+            {
+                "Name": "Email"
+            }
+        ]
+    }
+}

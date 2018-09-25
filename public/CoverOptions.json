@@ -1,0 +1,27 @@
+{
+    "CoverOptions" :[
+    {
+        "CoverTypes" :"Cover For You",
+        "Description" : "When you're a driver or passenger in any vehicle",
+        "ImgLink": "https://www.theaa.com/breakdown-cover/~/media/the-aa/breakdown-cover/sales-journey/uk/cover-for-you.svg"
+    },
+    
+    {
+        "CoverTypes" :"Cover For Two People",
+        "Description" : "When you're living together and are drivers or passengers in any vehicle",
+        "ImgLink" : "https://www.theaa.com/breakdown-cover/~/media/the-aa/breakdown-cover/sales-journey/uk/cover-for-2.svg"
+    },
+
+    {
+        "CoverTypes" :"Family Cover",
+        "Description" : "For 3 or 4 people living together, when you're drivers or passengers in any vehicle",
+        "ImgLink" : "https://www.theaa.com/breakdown-cover/~/media/the-aa/breakdown-cover/sales-journey/uk/family-cover.svg"
+    },
+
+    {
+        "CoverTypes" :"Vehicle Cover",
+        "Description" : "For one vehicle of any age, whoever's in it",
+        "ImgLink": "https://www.theaa.com/breakdown-cover/~/media/the-aa/breakdown-cover/sales-journey/uk/vehicle-cover.svg"
+    }
+]
+}
